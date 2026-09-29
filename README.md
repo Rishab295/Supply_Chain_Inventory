@@ -44,7 +44,7 @@ The main objectives of this project are to analyze:
 | **Seaborn** | Statistical visualization |
 | **Jupyter Notebook** | Analysis environment |
 | **Power BI** | Interactive dashboard and business reporting |
-| **Git & GitHub** | Version control and project sharing |
+| **Git & GitHub** | Version control and project sharing | 
 
 ---
 
