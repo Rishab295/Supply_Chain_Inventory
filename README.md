@@ -10,7 +10,7 @@
 
 This project analyzes **30,000 supply chain transactions** to identify business insights related to sales, profitability, inventory management, suppliers, warehouses, delivery performance, and product quality.
 
-The project follows an end-to-end analytics workflow:
+The project follows an end-to-end analytics workflow:  
 
 **Data → Cleaning → Analysis → Business Insights → Power BI Dashboard**
 
